@@ -51,7 +51,7 @@ Cricket-Match-Win-Analyzer-IPL/
 ## 📸 Application Preview
 
 ### Home Page
-![Home Page](homepage-images/hp-1.png)
+![Home Page](homepage-images/hp-2(2).png)
 
 ### Prediction Result
 ![Prediction Result](homepage-images/hp-2.png)
