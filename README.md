@@ -1,6 +1,6 @@
 # 🏏 Cricket Match Win Analyzer (IPL)
 
-An interactive Machine Learning based Streamlit web application that predicts the winning probability of IPL teams during live matches.
+A Machine Learning-based Streamlit web application that predicts the winning probability of IPL teams in real time.
 
 ## 🚀 Live Demo
 
@@ -55,3 +55,9 @@ Cricket-Match-Win-Analyzer-IPL/
 
 ### Prediction Result
 ![Prediction Result](homepage-images/hp-2.png)
+
+## 🚀 Live Demo
+[Open Live App](https://cricket-match-win-analyzer-meher.streamlit.app)
+
+## 📂 GitHub Repository
+[View Source Code](https://github.com/Meherchandrakanth/Cricket-Match-Win-Analyzer-IPL)
